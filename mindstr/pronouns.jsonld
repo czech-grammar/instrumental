@@ -1,0 +1,285 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pronouns",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#rmckuv",
+      "name": "Quick Reference",
+      "x": -246,
+      "y": -37,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#quick-reference",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cicry",
+      "name": "With Preposition \"S/Se\"",
+      "x": -208,
+      "y": -118,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#with-preposition-sse",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7c28q6",
+      "name": "First Person: Já → Mnou",
+      "x": -134,
+      "y": -167,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#first-person-já-mnou",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qbh3e",
+      "name": "Examples",
+      "x": -268,
+      "y": -359,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#examples",
+      "bgColor": "#ffe2ed",
+      "parent": "#7c28q6"
+    },
+    {
+      "@id": "#m3xps2",
+      "name": "Second Person: Ty → Tebou",
+      "x": -55,
+      "y": -213,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#second-person-ty-tebou",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxjf84",
+      "name": "Examples",
+      "x": -110,
+      "y": -414,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#examples",
+      "bgColor": "#ffe4d9",
+      "parent": "#m3xps2"
+    },
+    {
+      "@id": "#mrv4db",
+      "name": "Third Person: On/Ona/Oni",
+      "x": 164,
+      "y": -160,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#third-person-ononaoni",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6483q",
+      "name": "He/It: On/Ono → Ním",
+      "x": 122,
+      "y": -412,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#heit-onono-ním",
+      "bgColor": "#f2ecd2",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#kmcrgd",
+      "name": "She: Ona → Ní",
+      "x": 316,
+      "y": -423,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#she-ona-ní",
+      "bgColor": "#f2ecd2",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#ktiw89",
+      "name": "They: Oni/Ony → Nimi",
+      "x": 389,
+      "y": -267,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#they-oniony-nimi",
+      "bgColor": "#f2ecd2",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#c74y5q",
+      "name": "Examples",
+      "x": 554,
+      "y": -173,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#examples",
+      "bgColor": "#f2ecd2",
+      "parent": "#mrv4db"
+    },
+    {
+      "@id": "#374kep",
+      "name": "Formal \"You\": Vy → Vámi",
+      "x": 247,
+      "y": 33,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#formal-you-vy-vámi",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba2cgp",
+      "name": "Reflexive: Sebou",
+      "x": 199,
+      "y": 129,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#reflexive-sebou",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7ym9k",
+      "name": "Common Uses of \"S sebou\"",
+      "x": 398,
+      "y": 258,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#common-uses-of-s-sebou",
+      "bgColor": "#d1f3f4",
+      "parent": "#ba2cgp"
+    },
+    {
+      "@id": "#ius84b",
+      "name": "Special Preposition Forms",
+      "x": 99,
+      "y": 183,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#special-preposition-forms",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#583aqh",
+      "name": "Summary Table",
+      "x": -6,
+      "y": 243,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#summary-table",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sbf4ee",
+      "name": "Common Phrases",
+      "x": -89,
+      "y": 198,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#common-phrases",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t6q67m",
+      "name": "Practice",
+      "x": -163,
+      "y": 154,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#practice",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abq85r",
+      "name": "Common Mistakes",
+      "x": -217,
+      "y": 105,
+      "link": "https://grammar.ilearnczech.com/instrumental/pronouns#common-mistakes",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sy2ncx",
+      "name": "← Theory",
+      "x": -246,
+      "y": 36,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    }
+  ],
+  "selectedNode": 0
+}

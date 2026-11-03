@@ -1,0 +1,220 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plural Cheatsheet",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#sigj2h",
+      "name": "At a Glance",
+      "x": -242,
+      "y": -53,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#at-a-glance",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gvkzt",
+      "name": "The Main Endings",
+      "x": -179,
+      "y": -148,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#the-main-endings",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gpqg5",
+      "name": "Masculine Plural",
+      "x": -4,
+      "y": -212,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#masculine-plural",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzta82",
+      "name": "Hard Stems → -y",
+      "x": -115,
+      "y": -414,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#hard-stems--y",
+      "bgColor": "#ffe2ed",
+      "parent": "#5gpqg5"
+    },
+    {
+      "@id": "#jw3kjf",
+      "name": "Soft Stems → -i",
+      "x": 116,
+      "y": -492,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#soft-stems--i",
+      "bgColor": "#ffe2ed",
+      "parent": "#5gpqg5"
+    },
+    {
+      "@id": "#r76gtv",
+      "name": "Feminine Plural",
+      "x": 243,
+      "y": -49,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#feminine-plural",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qmk4u7",
+      "name": "-a Nouns → -ami",
+      "x": 374,
+      "y": -282,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#-a-nouns--ami",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#ysvez3",
+      "name": "-e Nouns → -emi",
+      "x": 565,
+      "y": -146,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#-e-nouns--emi",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#83zuf9",
+      "name": "Consonant Nouns → -mi",
+      "x": 490,
+      "y": 84,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#consonant-nouns--mi",
+      "bgColor": "#ffe4d9",
+      "parent": "#r76gtv"
+    },
+    {
+      "@id": "#vrzefk",
+      "name": "Neuter Plural",
+      "x": 49,
+      "y": 208,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#neuter-plural",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hvyxxr",
+      "name": "-o Nouns → -y",
+      "x": 292,
+      "y": 345,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#-o-nouns--y",
+      "bgColor": "#f2ecd2",
+      "parent": "#vrzefk"
+    },
+    {
+      "@id": "#qahfae",
+      "name": "-e Nouns → -i",
+      "x": 118,
+      "y": 491,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#-e-nouns--i",
+      "bgColor": "#f2ecd2",
+      "parent": "#vrzefk"
+    },
+    {
+      "@id": "#tgdsut",
+      "name": "-í Nouns → -ími",
+      "x": -112,
+      "y": 414,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#-í-nouns--ími",
+      "bgColor": "#f2ecd2",
+      "parent": "#vrzefk"
+    },
+    {
+      "@id": "#ijf3kk",
+      "name": "Memory Trick",
+      "x": -182,
+      "y": 146,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/plural#memory-trick",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anp567",
+      "name": "← Cheatsheets",
+      "x": -242,
+      "y": 53,
+      "link": "./cheatsheets.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}
