@@ -1,0 +1,233 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Introduction",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#wjzwqw",
+      "name": "Why Master the Instrumental?",
+      "x": -238,
+      "y": -66,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#why-master-the-instrumental",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpmgtf",
+      "name": "What You'll Learn",
+      "x": -90,
+      "y": -198,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#what-youll-learn",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a85fzz",
+      "name": "Theory",
+      "x": -317,
+      "y": -329,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#theory",
+      "bgColor": "#efe6ff",
+      "parent": "#cpmgtf"
+    },
+    {
+      "@id": "#eitj67",
+      "name": "Exercises",
+      "x": -211,
+      "y": -468,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#exercises",
+      "bgColor": "#efe6ff",
+      "parent": "#cpmgtf"
+    },
+    {
+      "@id": "#bpmjzd",
+      "name": "Cheatsheets",
+      "x": -23,
+      "y": -425,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#cheatsheets",
+      "bgColor": "#efe6ff",
+      "parent": "#cpmgtf"
+    },
+    {
+      "@id": "#r8aetn",
+      "name": "Quick Facts",
+      "x": 96,
+      "y": -196,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#quick-facts",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3rh5f",
+      "name": "The Core Concept",
+      "x": 177,
+      "y": -150,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#the-core-concept",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhgzj7",
+      "name": "Instrumental vs Other Cases",
+      "x": 241,
+      "y": -57,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#instrumental-vs-other-cases",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67qhwk",
+      "name": "The Key Patterns",
+      "x": 243,
+      "y": 50,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#the-key-patterns",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9du6c",
+      "name": "Main Uses of Instrumental",
+      "x": 66,
+      "y": 205,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#main-uses-of-instrumental",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tjeu4p",
+      "name": "Means & Instruments",
+      "x": 358,
+      "y": 297,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#1-means-instruments-no-preposition",
+      "bgColor": "#d1f3f4",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#x9rczq",
+      "name": "Accompaniment",
+      "x": 253,
+      "y": 453,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#2-accompaniment-with-sse",
+      "bgColor": "#d1f3f4",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#48j6uy",
+      "name": "Location Prepositions",
+      "x": 37,
+      "y": 424,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#3-location-prepositions",
+      "bgColor": "#d1f3f4",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#9kbx2m",
+      "name": "Identity",
+      "x": -172,
+      "y": 480,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#4-identity-with-být",
+      "bgColor": "#d1f3f4",
+      "parent": "#s9du6c"
+    },
+    {
+      "@id": "#9gbbfy",
+      "name": "Start Learning",
+      "x": -177,
+      "y": 150,
+      "link": "https://grammar.ilearnczech.com/instrumental/intro#start-learning",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kue24d",
+      "name": "← 7. Instrumental (7. pád)",
+      "x": -239,
+      "y": 62,
+      "link": "./index.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 2,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

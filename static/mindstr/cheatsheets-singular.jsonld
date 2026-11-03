@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Singular Cheatsheet",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#2da7xj",
+      "name": "At a Glance",
+      "x": -239,
+      "y": -63,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#at-a-glance",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9e878e",
+      "name": "Masculine → -em",
+      "x": -155,
+      "y": -167,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#masculine--em",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp2str",
+      "name": "Feminine -a → -ou",
+      "x": -7,
+      "y": -212,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#feminine--a--ou",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swzzzt",
+      "name": "Soft Feminine → -í",
+      "x": 212,
+      "y": -113,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#soft-feminine--í",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj9sd5",
+      "name": "-e Nouns",
+      "x": 310,
+      "y": -333,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#-e-nouns",
+      "bgColor": "#ffe4d9",
+      "parent": "#swzzzt"
+    },
+    {
+      "@id": "#9incsq",
+      "name": "Consonant-ending Nouns",
+      "x": 562,
+      "y": -152,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#consonant-ending-nouns",
+      "bgColor": "#ffe4d9",
+      "parent": "#swzzzt"
+    },
+    {
+      "@id": "#gwp9qx",
+      "name": "Neuter → -em / -ím",
+      "x": 125,
+      "y": 184,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#neuter--em--ím",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7csjb6",
+      "name": "-o Nouns → -em",
+      "x": 428,
+      "y": 220,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#-o-nouns--em",
+      "bgColor": "#f2ecd2",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#cyfvb8",
+      "name": "-e Nouns → -em",
+      "x": 295,
+      "y": 434,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#-e-nouns--em",
+      "bgColor": "#f2ecd2",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#ngjuhg",
+      "name": "-í Nouns → -ím",
+      "x": 10,
+      "y": 425,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#-í-nouns--ím",
+      "bgColor": "#f2ecd2",
+      "parent": "#gwp9qx"
+    },
+    {
+      "@id": "#ad25k5",
+      "name": "Memory Trick",
+      "x": -156,
+      "y": 166,
+      "link": "https://grammar.ilearnczech.com/instrumental/cheatsheets/singular#memory-trick",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6zhwac",
+      "name": "← Cheatsheets",
+      "x": -239,
+      "y": 63,
+      "link": "./cheatsheets.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

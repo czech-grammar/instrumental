@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Prepositions & Verbs",
+      "x": 0,
+      "y": 0,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions",
+      "bgColor": "#ebc573"
+    },
+    {
+      "@id": "#9c2qhr",
+      "name": "Instrumental Prepositions",
+      "x": -255,
+      "y": -56,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#instrumental-prepositions",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h59t8f",
+      "name": "S/Se + Instrumental",
+      "x": -124,
+      "y": -185,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#sse-instrumental-with",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rfby2g",
+      "name": "Accompaniment",
+      "x": -362,
+      "y": -293,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#accompaniment",
+      "bgColor": "#efe6ff",
+      "parent": "#h59t8f"
+    },
+    {
+      "@id": "#arxjt8",
+      "name": "Food/Drink",
+      "x": -292,
+      "y": -436,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#fooddrink",
+      "bgColor": "#efe6ff",
+      "parent": "#h59t8f"
+    },
+    {
+      "@id": "#jtyjdw",
+      "name": "Expressions",
+      "x": -111,
+      "y": -414,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#expressions",
+      "bgColor": "#efe6ff",
+      "parent": "#h59t8f"
+    },
+    {
+      "@id": "#dtqx4z",
+      "name": "Před + Instrumental",
+      "x": 92,
+      "y": -198,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#před-instrumental-in-front-of-before",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2s2vv",
+      "name": "Physical Location",
+      "x": 114,
+      "y": -414,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#physical-location",
+      "bgColor": "#ffe2ed",
+      "parent": "#dtqx4z"
+    },
+    {
+      "@id": "#vx2z65",
+      "name": "Time",
+      "x": 304,
+      "y": -430,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#time-before",
+      "bgColor": "#ffe2ed",
+      "parent": "#dtqx4z"
+    },
+    {
+      "@id": "#xwei9g",
+      "name": "Za + Instrumental",
+      "x": 202,
+      "y": -125,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#za-instrumental-behind-beyond",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bzs4i",
+      "name": "Physical Location",
+      "x": 404,
+      "y": -250,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#physical-location",
+      "bgColor": "#ffe4d9",
+      "parent": "#xwei9g"
+    },
+    {
+      "@id": "#fkywkd",
+      "name": "Nad + Instrumental",
+      "x": 243,
+      "y": -48,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#nad-instrumental-above-over",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8deiz",
+      "name": "Pod + Instrumental",
+      "x": 246,
+      "y": 38,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#pod-instrumental-under-below",
+      "bgColor": "#b1dfb5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aya9s9",
+      "name": "Mezi + Instrumental",
+      "x": 207,
+      "y": 119,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#mezi-instrumental-between-among",
+      "bgColor": "#95e1e3",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vn2imx",
+      "name": "Means & Instruments",
+      "x": 139,
+      "y": 170,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#means-instruments-no-preposition",
+      "bgColor": "#acd5ff",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2tznvh",
+      "name": "Transportation",
+      "x": 278,
+      "y": 353,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#transportation",
+      "bgColor": "#daeeff",
+      "parent": "#vn2imx"
+    },
+    {
+      "@id": "#cnh2fk",
+      "name": "Identity Verbs",
+      "x": 51,
+      "y": 214,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#identity-verbs-to-bebecome",
+      "bgColor": "#d9c6fb",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk76uz",
+      "name": "Verbs That Take Instrumental",
+      "x": 62,
+      "y": 422,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#verbs-that-take-instrumental",
+      "bgColor": "#efe6ff",
+      "parent": "#cnh2fk"
+    },
+    {
+      "@id": "#5aggpq",
+      "name": "Question Words",
+      "x": -94,
+      "y": 206,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#question-words",
+      "bgColor": "#f9bdd5",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqmaaw",
+      "name": "Practice",
+      "x": -159,
+      "y": 161,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#practice",
+      "bgColor": "#fcc2a9",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjbq25",
+      "name": "Common Mistakes",
+      "x": -216,
+      "y": 107,
+      "link": "https://grammar.ilearnczech.com/instrumental/prepositions#common-mistakes",
+      "bgColor": "#e0d199",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tz98k5",
+      "name": "← Theory",
+      "x": -246,
+      "y": 37,
+      "link": "./theory.jsonld",
+      "bgColor": "#ececec",
+      "parent": "#this"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 0,
+      "end": 2
+    },
+    {
+      "start": 2,
+      "end": 3
+    },
+    {
+      "start": 2,
+      "end": 4
+    },
+    {
+      "start": 2,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}
